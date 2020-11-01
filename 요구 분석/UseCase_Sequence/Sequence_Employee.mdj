@@ -8224,7 +8224,7 @@
 														"$ref": "AAAAAAF1gqQ3H4Fop2c="
 													},
 													"font": "Arial;13;0",
-													"left": 63.9599609375,
+													"left": 61.07177734375,
 													"top": 549,
 													"width": 16.90087890625,
 													"height": 13,
@@ -8239,9 +8239,9 @@
 													"font": "Arial;13;1",
 													"left": 37,
 													"top": 549,
-													"width": 21.9599609375,
+													"width": 19.07177734375,
 													"height": 13,
-													"text": "seq"
+													"text": "opt"
 												},
 												{
 													"_type": "UMLInteractionOperandCompartmentView",
@@ -9401,7 +9401,7 @@
 										"$ref": "AAAAAAF1gprsJX1plQc="
 									},
 									"name": "9A",
-									"interactionOperator": "seq",
+									"interactionOperator": "opt",
 									"operands": [
 										{
 											"_type": "UMLInteractionOperand",
